@@ -1,5 +1,8 @@
 ### Hi there 👋
-⚠🚧🏗🛠 Soon
+I'm Morad, a jr 🕸 👨‍💻, & Bsc 🎓!
+
+- 🔭 I’m currently working on freeCodeCamp projects
+- 🌱 I’m currently learning CSS3, JavaScript
 <!--
 **mouradsidhoumi/mouradsidhoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://codepen.io/mouradsidhoumi
 -->
