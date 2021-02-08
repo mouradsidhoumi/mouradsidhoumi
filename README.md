@@ -1,11 +1,12 @@
-### Hi there 👋
-I'm Morad, a jr 🕸 👨‍💻, & Bsc 🎓!
+# ℌ𝔦 𝔱𝔥𝔢𝔯𝔢 👋
+### I'm Morad, a Jr 🕸 👨‍💻 ◔◡◔
 
-- 🔭 I’m currently working on freeCodeCamp projects
-- 🌱 I’m currently learning CSS3, JavaScript
+- 🎓 I’m currently pursuing a master degree of Information Systems and Data, and doing freeCodeCamp projects on 🆓⏳!
 <!--
 **mouradsidhoumi/mouradsidhoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I’m currently working on freeCodeCamp projects
+- 🌱 I’m currently learning CSS3, JavaScript
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
