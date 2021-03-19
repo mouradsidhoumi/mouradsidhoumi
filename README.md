@@ -1,5 +1,5 @@
-# ℌ𝔦 𝔱𝔥𝔢𝔯𝔢 👋
-### I'm Morad, a Jr 🕸 👨‍💻 ◔◡◔
+# ℌ𝔦 𝔱𝔥𝔢𝔯𝔢 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+### I'm Morad, a Jr 🕸 👨‍💻
 
 - 🎓 I’m currently pursuing a master degree of Information Systems and Data, and doing freeCodeCamp projects on 🆓⏳!
 <!--
