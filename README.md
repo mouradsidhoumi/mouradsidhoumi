@@ -1,14 +1,8 @@
-# ℌ𝔦 𝔱𝔥𝔢𝔯𝔢 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+# 🪂 ℌ𝔦 𝔱𝔥𝔢𝔯𝔢 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 ### I'm Morad, a Jr 🕸 👨‍💻  
 
-- 🌱 I’m currently :
-  - 🎓 Pursuing a Master's degree of Information Systems and Data
-  - 📝 Preparing for the Huawei Certified ICT Associate Big Data 
-  - 🍿 <span style="color:white">"</span>Doing freeCodeCamp projects on free time
-  - 🔭 <span style="color:white">'</span>Looking for an opportunity for next year, as an internship, projects or an Msc scholarship  
-
 <details style="background-color:#FAFBFC;padding:3px 15px; border: solid 2px #E8EAEC;border-radius: 10px">
-<summary><span style="font-size:20px;background-color:#FAFBFC">🎁 For visitors ✨</span></summary>
+<summary><span style="font-size:20px;background-color:#FAFBFC">🎁 For guests ✨</span></summary>
   
   ##### Dev Joke:
   ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23fff&borderColor=%2380BC00&codeColor=%23EF7F1B&qColor=%230071CE&aColor=%2315B012&textColor=%23009746)
@@ -17,7 +11,15 @@
 
   ##### Quote:
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)  
+  ---
+  
 </details>
+
+- 🌱 I’m currently :
+  - 🎓 Pursuing a Master's degree of Information Systems and Data
+  - 📝 Preparing for the Huawei Certified ICT Associate Big Data 
+  - 🍿  Doing freeCodeCamp projects on free time
+  - 🔭 Looking for an opportunity for next year, as an internship, projects or an Msc scholarship  
   
 <br/>
 
