@@ -6,8 +6,6 @@
   
   ##### Dev Joke:
   ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23fff&borderColor=%2380BC00&codeColor=%23EF7F1B&qColor=%230071CE&aColor=%2315B012&textColor=%23009746)
-  ##### Meme:
-  <img src='https://random-memer.herokuapp.com/' title="Meme" title="Please refresh the page if the meme doesn't show up.">
 
   ##### Quote:
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)  
@@ -26,7 +24,7 @@
 
 
   - I aspire to learn next:
-    - <a title="Hadoop" href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="27" height="27"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" width="27" height="27"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" width="27" height="27"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="27" height="27"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" width="27" height="27"/> </a> <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" title="Prisma" height="27" /> <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" title="TailwindCSS" height="27" /> <img src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4" title="Mocha" height="30" /> <a> <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="Docker" height="27" />  </a> <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" title="GCP" height="27" />  
+    - <a title="Hadoop" href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="27" height="27"/> </a> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="30" height="30"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="27" height="27"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" width="27" height="27"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" width="27" height="27"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" width="27" height="27"/> </a> <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" title="Prisma" height="27" /> <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" title="TailwindCSS" height="27" /> <img src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4" title="Mocha" height="30" /> <a> <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="Docker" height="27" />  </a> <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" title="GCP" height="27" />  
 
 <p align="center">
 
@@ -44,7 +42,8 @@
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" title="Scala" width="27" height="27"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" width="27" height="27"/> </a>
 
-
+  ##### Meme:
+  <img src='https://random-memer.herokuapp.com/' title="Meme" title="Please refresh the page if the meme doesn't show up.">
 
 [![Email Badge](https://img.shields.io/badge/-Email-3399FF?style=flat&logo=Gmail&logoColor=white)](mailto: "Connect via Email")
 
