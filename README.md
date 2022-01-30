@@ -8,6 +8,7 @@
   ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23fff&borderColor=%2380BC00&codeColor=%23EF7F1B&qColor=%230071CE&aColor=%2315B012&textColor=%23009746)
   
   ##### Meme :trollface: :
+  
   <img src='https://random-memer.herokuapp.com/' title="Meme" title="Please refresh the page if the meme doesn't show up.">  
   
   (sorry if the meme is offencing, it is pulled randomly from an external source)
@@ -21,7 +22,7 @@
 
 - 🌱 I’m currently:
   - 🎓 Pursuing a Master's degree of Information Systems and Data 
-  - 🔭 Looking for an opportunity for this year, as an internship, projects or an Msc scholarship for next year 
+  - 🔭 Open for a job opportunity
 
 - 🧰 Languages & tools:
   - I use mainly / I'm learning :
