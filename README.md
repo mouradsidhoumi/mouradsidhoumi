@@ -32,7 +32,7 @@
 
 
   - I aspire to learn next:
-    - <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="27" height="27"/> </a> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" width="27" height="27"/> </a> <img src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4" title="Mocha" height="30" /> <a> <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="Docker" height="27" />  </a> <img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png " title="Azure" height="27" /> <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" title="GCP" height="27" />   
+    - <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="27" height="27"/> </a> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" width="27" height="27"/> </a> <img src="https://avatars.githubusercontent.com/u/8770005?s=200&v=4" title="Mocha" height="30" /> <a> <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" title="Docker" height="27" />  </a>  <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" title="GCP" height="27" />   
   
 - 📫 Reach me on ↴  
 
@@ -46,7 +46,7 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" width="27" height="27"/> </a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="30" height="30"/>
 <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" title="Prisma" height="27" /> 
-
+<img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png " title="Azure" height="27" />
 
 [![Email Badge](https://img.shields.io/badge/-Email-3399FF?style=flat&logo=Gmail&logoColor=white)](mailto: "Connect via Email")
 
