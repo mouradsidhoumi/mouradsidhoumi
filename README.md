@@ -36,7 +36,7 @@
   
 - 📫 Reach me on ↴  
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouradsidhoumi/ "Connect via LinkedIn") [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/187966293448720384/ "Connect via Discord") [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/noxlord "Connect via Messenger")
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouradsidhoumi/ "Connect via LinkedIn") [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/187966293448720384/ "Connect via Discord") [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/noxlord "Connect via Messenger")
 <!--
 
   - 📝 Preparing for the 
