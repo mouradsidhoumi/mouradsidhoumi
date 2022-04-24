@@ -22,7 +22,7 @@
 
 - 🌱 State:
   - 🎓 Soon graduate of a Master's degree on Information Systems and Data,
-  - 🖥  Embracing web development, with a focus on JavaScript ecosystem, driven by modern best practices (architectures, devSecOps..). Having also a flair for UI/UX (at least from an analysis perspective for now),
+  - ⌨  Embracing web development, with a focus on JavaScript ecosystem, driven by modern best practices (architectures, devSecOps..). Having also a flair for UI/UX (at least from an analysis perspective for now),
   - 🔭 Open for a job opportunity / relocation
 
 - 🧰 Languages & tools:
