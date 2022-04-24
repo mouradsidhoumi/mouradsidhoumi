@@ -20,9 +20,10 @@
   ---
 </details>
 
-- 🌱 I’m currently:
-  - 🎓 Pursuing a Master's degree of Information Systems and Data 
-  - 🔭 Open for a job opportunity
+- 🌱 State:
+  - 🎓 Soon graduate of a Master's degree on Information Systems and Data,
+  - 🖥  Embracing web development, with a focus on JavaScript ecosystem, driven by modern best practices (architectures, devSecOps..). Having also a flair for UI/UX (at least from an analysis perspective for now),
+  - 🔭 Open for a job opportunity / relocation
 
 - 🧰 Languages & tools:
   - I use mainly / I'm learning :
@@ -37,37 +38,3 @@
 - 📫 Reach me on ↴  
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouradsidhoumi/ "Connect via LinkedIn") [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/187966293448720384/ "Connect via Discord") [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/noxlord "Connect via Messenger")
-<!--
-
-  - 📝 Preparing for the 
-  - 🍿  Doing freeCodeCamp projects on free time 
-
-<a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" title="Scala" width="27" height="27"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" width="27" height="27"/> </a>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="30" height="30"/>
-<img src="https://profilinator.rishav.dev/skills-assets/prisma.png" title="Prisma" height="27" /> 
-<img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png " title="Azure" height="27" />
-
-[![Email Badge](https://img.shields.io/badge/-Email-3399FF?style=flat&logo=Gmail&logoColor=white)](mailto: "Connect via Email")
-
-- Or find me in ↴
-
-<details>
-<summary><span style="font-size:15px">Or find me in ↴</span></summary>
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://codepen.io/mouradsidhoumi "Twitter")  [![Codepen Badge](https://img.shields.io/badge/-CodePen-1E1F26?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/mouradsidhoumi "CodePen") [![Tumblr Badge](https://img.shields.io/badge/-Tumblr-36465D?style=flat&logo=Tumblr&logoColor=white)](https://codepen.io/mouradsidhoumi "CodePen")
-
-</details>
-
-**mouradsidhoumi/mouradsidhoumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
