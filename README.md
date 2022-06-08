@@ -1,6 +1,6 @@
-## 🪂 ℌ𝔦 𝔱𝔥𝔢𝔯𝔢 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+## 🪂 ℌ𝔦 𝔱𝔥𝔢𝔯𝔢 👋
 ### I'm Morad, a Jr 🕸 👨‍💻   
-[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=flat&logo=polywork&logoColor=black)](https://www.polywork.com/mouradsidhoumi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14492178/mourad-sidhoumi?tab=topactivity "Stack Overflow") [![GitHub](https://img.shields.io/badge/Pages-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/mouradsidhoumi/mouradsidhoumi.github.io/ "Github Pages") [![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=flat&logo=replit&logoColor=white)](https://replit.com/@MouradSidhoumi "Replit") [![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/mouradsidhoumi "Codepen") [![freeCodeCamp Badge](https://img.shields.io/badge/-freeCodeCamp-0a0a23?style=flat&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/mouradsidhoumi "freeCodeCamp")  
+[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=flat&logo=polywork&logoColor=black)](https://www.polywork.com/mouradsidhoumi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14492178/mourad-sidhoumi?tab=topactivity "Stack Overflow") [![GitHub](https://img.shields.io/badge/Pages-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/mouradsidhoumi/mouradsidhoumi.github.io/ "Github Pages") [![Replit](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=flat&logo=replit&logoColor=white)](https://replit.com/@MouradSidhoumi "Replit") [![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/mouradsidhoumi "Codepen") [![freeCodeCamp Badge](https://img.shields.io/badge/-freeCodeCamp-0a0a23?style=flat&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/mouradsidhoumi "freeCodeCamp")  
 <details style="background-color:#FAFBFC;padding:3px 15px; border: solid 2px #E8EAEC;border-radius: 10px">
 <summary><span style="font-size:16px;background-color:#FAFBFC">🎁 For guests ✨</span></summary>
   
@@ -22,7 +22,7 @@
 
 - 🌱 State:
   - 🎓 Soon graduate of a Master's degree on Information Systems and Data,
-  - ⌨  Embracing web development, with a focus on JavaScript ecosystem, driven by modern best practices (architectures, devSecOps..). Having also a flair for UI/UX (at least from an analysis perspective for now),
+  - ⌨  Embracing web development, with a focus on JavaScript ecosystem, driven by modern best practices. Having also a flair for UI & UX,
   - 🔭 Open for a job opportunity / relocation
 
 - 🧰 Languages & tools:
