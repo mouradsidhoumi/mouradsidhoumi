@@ -21,7 +21,7 @@
 </details>
 
 - 🌱 State:
-  - 🎓 Soon graduate of a Master's degree on Information Systems and Data,
+  - 🎓 Pursuing a Master's degree in Information Systems and Data,
   - ⌨  Embracing web development, with a focus on JavaScript ecosystem, driven by modern best practices. Having also a flair for UI & UX,
   - 🔭 Open for a job opportunity / relocation
 
